@@ -26,8 +26,8 @@ import {
   SidebarProvider,
   SidebarTrigger,
 } from "@/Components/ui/sidebar";
-import { Button } from "@/components/ui/button";
-import { User } from "@/entities/User";
+import { Button } from "@/Components/ui/button";
+// import { User } from "@/Entities/User";
 
 const navigationItems = [
   {
