@@ -25,7 +25,7 @@ import {
   SidebarHeader,
   SidebarProvider,
   SidebarTrigger,
-} from "@/components/ui/sidebar";
+} from "@/Components/ui/sidebar";
 import { Button } from "@/components/ui/button";
 import { User } from "@/entities/User";
 
